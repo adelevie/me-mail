@@ -1,0 +1,11 @@
+---
+to:
+  name: "Person Smith"
+  address_line1: "123 Somewhere"
+  address_city: "Cityville"
+  address_state: "CA"
+  address_country: "US"
+  address_zip: "90210"
+
+from:
+  same_as_to: true
